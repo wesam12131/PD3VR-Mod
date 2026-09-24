@@ -1,11 +1,6 @@
 # PD3VR-Mod
 This mod brings PAYDAY 3 VR to life
-## Installation
 
-The mod comes in two ZIP files:
-
-* **UEVR Injector** has `UEVRInjector.exe` and can be extracted anywhere.
-* **PD3VR Profile** has the profile that makes the magic work
 ## Features
 * Inverse Kinematics (IK)
 
@@ -24,6 +19,9 @@ The mod comes in two ZIP files:
 * Customizable aiming options, including HMD, right weapon, left weapon, and more
 
 ## Getting Started
+--------
+
+----------
 1: Extract the profile, place it into '%appdata%/UnrealVRMod' (Create if needed)
 (If your on a non steam version of payday 3, rename the profile to the payday 3 executable name located in your PAYDAY3\Binaries\Win64
 
