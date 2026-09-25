@@ -45,4 +45,5 @@ This mod brings PAYDAY 3 VR to life
 
 # Credits:
 (This project uses my modified fork of JoeyHodge's UEVR fork, which is based on Praydog's UEVR.)
+
 (uses  a forked version of jbusfield's uevrlib)
